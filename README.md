@@ -1,5 +1,5 @@
 # vue3-jwt-client-boilerplate
-
+modified version from: https://www.bezkoder.com/jwt-vue-vuex-authentication/
 ## Project setup
 ```
 yarn install
